@@ -1,0 +1,36 @@
+#navegacao{
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+.Logo{
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+.Sublogo{
+    position: absolute;
+    top: 60px;
+    font-size: 12px;
+    left: 27px;
+}
+
+/*.Sublogo1{
+    position: absolute;
+    top: 90px;
+    font-size: 12px ;
+    text-align: center;
+    left: 26px;
+}*/
+.final{
+    position: absolute;
+    top: 2000px;
+}
+.titulo{
+    position: absolute;
+    top: 60px;
+}
+.assunto{
+    position: absolute;
+    top: 140px;
+}
