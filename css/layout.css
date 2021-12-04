@@ -1,7 +1,18 @@
+.bg_video{
+	position: fixed; 
+    margin: 0;
+    padding: 0;
+    height: 850px;
+}
 #navegacao{
     position: absolute;
     top: 30px;
     right: 30px;
+    border-style: 
+    border-width: 100px;
+}
+a[href]{
+    color: white;
 }
 .Logo{
     position: absolute;
@@ -13,8 +24,24 @@
     top: 60px;
     font-size: 12px;
     left: 27px;
+    color: white;
 }
-
+.terceiravia{
+    position: absolute;
+    top: 170px;
+    left: 20px;
+    font-size: 50px;
+    text-align: left;
+    color: white;
+}
+.quartavia{
+    position: absolute;
+    top: 320px;
+    left: 20px;
+    text-align: left;
+    font-size: 18px;
+    color: white;
+}
 /*.Sublogo1{
     position: absolute;
     top: 90px;
