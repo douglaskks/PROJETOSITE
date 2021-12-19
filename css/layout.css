@@ -1,63 +1,56 @@
-.bg_video{
-	position: fixed; 
-    margin: 0;
-    padding: 0;
-    height: 850px;
+body{
+    background-image: url(../images/Capa.png);
+    background-repeat: no-repeat;
 }
+
 #navegacao{
     position: absolute;
     top: 30px;
     right: 30px;
-    border-style: 
-    border-width: 100px;
+    /*border-width: 100px;*/
+    border: 1px, white;
 }
+
 a[href]{
     color: white;
 }
-.Logo{
+
+#Logo{
     position: absolute;
-    top: 10px;
-    left: 30px;
+    left: 12px;
 }
+
 .Sublogo{
-    position: absolute;
-    top: 60px;
-    font-size: 12px;
-    left: 27px;
     color: white;
-}
-.terceiravia{
+    font-size: 8px;
     position: absolute;
-    top: 170px;
-    left: 20px;
-    font-size: 50px;
-    text-align: left;
+    left: 20Px;
+    top: 60px;   
+}
+
+.boasvindas{
     color: white;
-}
-.quartavia{
     position: absolute;
-    top: 320px;
-    left: 20px;
-    text-align: left;
-    font-size: 18px;
+    font-size: 40px;
+    top: 210px;
+}
+
+.marketing{
     color: white;
-}
-/*.Sublogo1{
     position: absolute;
-    top: 90px;
-    font-size: 12px ;
-    text-align: center;
-    left: 26px;
-}*/
+    top: 340px;   
+}
+
+.botao1{
+    position: absolute;
+    top: 470px;
+    width: 110px;
+    height: 30px;
+}
+
 .final{
     position: absolute;
-    top: 2000px;
+    color: white;
+    top: 1000px;
 }
-.titulo{
-    position: absolute;
-    top: 60px;
-}
-.assunto{
-    position: absolute;
-    top: 140px;
-}
+
