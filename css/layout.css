@@ -1,31 +1,7 @@
 body{
-    background-image: url(../images/Capa.png);
-    background-repeat: no-repeat;
-}
-
-#navegacao{
-    position: absolute;
-    top: 30px;
-    right: 30px;
-    /*border-width: 100px;*/
-    border: 1px, white;
-}
-
-a[href]{
-    color: white;
-}
-
-#Logo{
-    position: absolute;
-    left: 12px;
-}
-
-.Sublogo{
-    color: white;
-    font-size: 8px;
-    position: absolute;
-    left: 20Px;
-    top: 60px;   
+    background-color: black;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 .boasvindas{
@@ -35,17 +11,10 @@ a[href]{
     top: 210px;
 }
 
-.marketing{
+.text{
     color: white;
     position: absolute;
     top: 340px;   
-}
-
-.botao1{
-    position: absolute;
-    top: 470px;
-    width: 110px;
-    height: 30px;
 }
 
 .final{
