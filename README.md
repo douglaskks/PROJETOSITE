@@ -6,4 +6,3 @@
 ° HTML<br>
 ° CSS<br>
 ° JavaScript<br>
-° PHP<br>
