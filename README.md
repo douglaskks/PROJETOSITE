@@ -1,1 +1,1 @@
-Nesse projeto estou criando uma plataforma de curso onde terá o front-end com html, css e JavaScript e o Back-End com o java
+Nesse projeto estou criando uma plataforma de curso onde terá o front-end com html, css e JavaScript e o Back-End com o java, basicamente este site irá ter uma tela de login onde quano o acesso for liberado terá acesso aos conteúdos do site, que, como é uma plataforma de cursos o conteúdo será os cursos online.
